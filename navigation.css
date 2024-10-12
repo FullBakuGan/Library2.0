@@ -1,0 +1,14 @@
+.navigation{
+    position: absolute;
+    width: 1281px;
+    height: 666px;
+    left: 26px;
+    top: 273px;
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+    letter-spacing: 0%;
+    text-align: left;
+}
